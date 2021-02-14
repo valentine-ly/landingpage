@@ -1,0 +1,19 @@
+.banner{
+	background-image: linear-gradient(-255deg, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.2) 30%), url(../../images/green.jpg);
+	color: white;
+	padding: 100px 0px;
+	background-position: center;
+	background-size: cover;
+}
+
+.banner h1 {
+	font-size: 50px;
+	text-shadow: 2px 2px rgb(0, 59, 54);
+}
+
+.banner h2 {
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0,8;
+	margin-bottom: 40px;
+}
