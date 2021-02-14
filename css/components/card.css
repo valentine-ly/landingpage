@@ -46,6 +46,7 @@
 	margin: 40px;
 	flex-basis: 200px;
 	flex-grow : 1;
+	flex-wrap: wrap;
 }
 
 .card_intro h3{
